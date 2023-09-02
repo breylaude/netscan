@@ -1,17 +1,17 @@
-## 0.1.0 09/01/2023
+## 0.1.0 - 9/1/23
 
 ### Added
 
-	- Tests,
-	- Documentation undone
-	- Code style checking
-	- Editor config
-	- Default Travis configuration
-	- Change log
-	- Code of Conduct
-	- Contributing guidelines
-	- License
-	- Manifest.in
-	- README
-	- Requirements.txt
-	- Setup configuration
+- Tests
+- Documentation
+- Code style checking
+- Editor config
+- Default Travis configuration
+- Change log
+- Code of Conduct
+- Contributing guidelines
+- License
+- Manifest.in
+- README
+- Requirements.txt
+- Setup configuration
